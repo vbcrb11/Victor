@@ -1,0 +1,16 @@
+import random 
+parola = input ("scrivi parola che non sai")
+if parola in meme dict.keys():
+    parola richiesta trovata
+    
+else : 
+    parola non trovata
+    ("spiacente parola non trovata")
+    
+meme_dict = {
+            "BRO": "Soprannome per chiamrsi tra noi adolescenti".
+            "Flexare": "Mettersi o mettere in mostra qualcosa per arricchire i tuoi successi".
+            "Apamiye": "Tipico scherzo tra i giovani d'oggi".
+            }
+while True :
+    input1 = print[input1(cerca parola)]
